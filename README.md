@@ -37,10 +37,4 @@ I am really interested in system design and system architecture these days.
 
 - 💼 **LinkedIn:** [linkedIn/leoguazzaroni](https://www.linkedin.com/in/l%C3%A9o-guazzaroni-540a1b20b/)
 - 🌐 **Portfolio:** [portfolio/leoguazzaroni](https://leoguazzaroni.dev)
-- ✉️ **Email:** [leo.guazzaroni@email.com](leoguazza@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeleo21&show_icons=true&theme=dark&hide_border=true&bg_color=18181b&title_color=f4f4f5&icon_color=a1a1aa&text_color=71717a" alt="Léo's GitHub Stats" />
-</p>
+- ✉️ **Email:** [email/leoguazzarobi](leoguazza@gmail.com)

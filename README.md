@@ -1,40 +1,27 @@
-# Hi there, I'm Léo Guazzaroni 👋
+# Hi, I'm Léo Guazzaroni 👋
 
-> **Fullstack Software Engineer** passionate about building clean, scalable web applications and intuitive mobile experiences. Currently crafting impactful health-tech solutions at **Padoa**.
+Backend-leaning Fullstack Engineer, currently building health-tech tools at **Padoa**.
 
-Check my **Portfolio:** [Léo Guazzaroni](https://leoguazzaroni.dev)
-
----
-
-### 🚀 About Me
-
-I am a Fullstack Developer who thrives at the intersection of robust backend logic and highly reactive frontends. 
-At **Padoa**, I focus on building tools that streamline complex ecosystems, with a keen eye for performance, clean architecture, and user experience. 
-
-I am really interested in system design and system architecture these days.
+[Portfolio](https://leoguazzaroni.dev) · [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-guazzaroni-540a1b20b/) · [Email](mailto:leoguazza@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## About
 
-| Layer | Technologies I Use |
-| :--- | :--- |
-| **Frontend** | Angular, React, TailwindCSS, Typescript |
-| **Backend & DB** | Node.js, TypeScript, SQL / Relational Databases |
-| **Tools & Dev** | Git, Vite, Nx, Agile Methodologies, Vercel, OpenSearchDashboards |
+I work mostly on backend systems and architecture — API design, data modeling, performance — with enough frontend skill to ship full features end-to-end when needed. Lately I've been getting more into system design.
+
+## Stack
+
+**Backend:** Node.js, TypeScript, SQL / relational databases
+**Frontend:** React, Angular, TailwindCSS
+**Tools:** Git, Nx, Vite, Vercel, OpenSearch Dashboards
+
+## A few things I've worked on
+
+- **Prevention & Assessment Tools** — backend logic for complex data calculations in occupational health
+- **Agora Pulse** — BLE-based proximity detection, hardware/software integration
+- **Maze Generator** — randomized DFS visualization, just for fun
 
 ---
 
-### 📂 Highlighted Work & Experiments
-
-* 📊 **Prevention & Assessment Tools** – Engineering responsive interfaces to handle complex data calculations for occupational health.
-* 📡 **Agora Pulse** – Explored the space where hardware meets software using BLE and sensors for contextual, proximity-based interactions.
-* 🌀 **Maze Generator** – A visual deep-dive into graph algorithms, rendering randomized depth-first search in real-time.
-
----
-
-### 📫 Let's Connect!
-
-- 💼 **LinkedIn:** [linkedIn/leoguazzaroni](https://www.linkedin.com/in/l%C3%A9o-guazzaroni-540a1b20b/)
-- 🌐 **Portfolio:** [portfolio/leoguazzaroni](https://leoguazzaroni.dev)
-- ✉️ **Email:** [email/leoguazzaroni](leoguazza@gmail.com)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-guazzaroni-540a1b20b/) or by [email](mailto:leoguazza@gmail.com)
